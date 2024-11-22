@@ -19,8 +19,7 @@
   <link rel="stylesheet" type="text/css" href="/assets/vendor/animate/animate.css">
   
   <link rel="stylesheet" type="text/css" href="/assets/vendor/owl-carousel/owl.carousel.css">
-  
-  <link rel="stylesheet" type="text/css" href="/assets/vendor/perfect-scrollbar/css/perfect-scrollbar.css">
+
   
   <link rel="stylesheet" type="text/css" href="/assets/vendor/nice-select/css/nice-select.css">
   
