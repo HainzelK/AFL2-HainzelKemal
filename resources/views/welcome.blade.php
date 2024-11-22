@@ -390,10 +390,6 @@
   <script src="../assets/vendor/wow/wow.min.js"></script>
 
   <script src="../assets/vendor/animateNumber/jquery.animateNumber.min.js"></script>
-
-  <script src="../assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-
-  <script src="../assets/js/google-maps.js"></script>
     
   <script src="../assets/js/topbar-virtual.js"></script>
 
