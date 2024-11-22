@@ -38,7 +38,7 @@
   </div>
   
   
-  <div class="vg-page page-home" id="home" style="background-image: url(../assets/img/bg_image_1.jpg)">
+  <div class="vg-page page-home" id="home" style="background-image: url(../assets/img/bg_image_1.webp)">
     <!-- Navbar -->
     <div class="navbar navbar-expand-lg navbar-dark sticky" data-offset="500">
       <div class="container">
@@ -245,7 +245,7 @@
     </div>
   </div>
   
-  <div class="vg-page page-funfact" style="background-image: url(../assets/img/bg_banner.jpg);">
+  <div class="vg-page page-funfact" style="background-image: url(../assets/img/bg_banner.webp);">
     <div class="container">
       <div class="row section-counter">
         <div class="col-md-6 col-lg-3 py-4 wow fadeIn">
@@ -280,7 +280,7 @@
       <div class="grid-item apps">
           <a href="https://github.com/HainzelK">
             <div class="img-place">
-              <img src="../assets/img/work/github.jpg" alt="Mobile Travel App">
+              <img src="../assets/img/work/github.webp" alt="Mobile Travel App">
               <div class="img-caption">
                 <h5 class="fg-theme">My Personal Github</h5>
                 <p>Github Profile</p>
@@ -292,7 +292,7 @@
         <div class="grid-item apps">
           <a href="https://www.figma.com/design/q89H01lzH2GQOMRQoEtRdX/Calends?node-id=0-1&node-type=canvas&t=y4QP94Mg5WgX4ZKa-0">
             <div class="img-place">
-              <img src="../assets/img/work/Calends.jpg" alt="Mobile Travel App">
+              <img src="../assets/img/work/Calends.webp" alt="Mobile Travel App">
               <div class="img-caption">
                 <h5 class="fg-theme">Calends App</h5>
                 <p>First Year Project I made using python</p>
@@ -303,7 +303,7 @@
         <div class="grid-item apps">
           <a href="https://github.com/HainzelK/Siata">
             <div class="img-place">
-              <img src="../assets/img/work/siata.jpg" alt="Mobile Travel App">
+              <img src="../assets/img/work/siata.webp" alt="Mobile Travel App">
               <div class="img-caption">
                 <h5 class="fg-theme">Siata Web</h5>
                 <p>Second Year Final Project my team made using HTML, JS, CSS, and Java</p>
