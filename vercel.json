@@ -18,7 +18,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://my-portfolio-psi-lime.vercel.app",
+        "APP_URL": "https://afl-2-hainzel-kemal.vercel.app",
         "APP_KEY": "base64:Ir3T518wOFig/laghAKXaeUZYNKQrhnuJ8np2Lx1M/I=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
