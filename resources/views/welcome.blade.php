@@ -57,7 +57,7 @@
               <a href="#portfolio" class="nav-link" data-animate="scrolling">Portfolio</a>
             </li>
             <li class="nav-item">
-              <a href="#contact" class="nav-link" data-animate="scrolling">Blog</a>
+              <a href="#contact" class="nav-link" data-animate="scrolling">Contact</a>
             </li>
           </ul>
           <ul class="nav ml-auto">
@@ -318,7 +318,7 @@
   
     
   <!-- Footer -->
-  <div class="vg-footer">
+  <div class="vg-footer" id='contact'>
     <h1 class="text-center">Virtual Folio</h1>
     <div class="container">
       <div class="row">
