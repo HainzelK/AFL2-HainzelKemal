@@ -262,7 +262,7 @@
         </div>
         <div class="col-md-6 col-lg-3 py-4 wow fadeIn">
           <h1 class="number" data-number="10">10</h1>
-          <span>Client SatisfactionSSSSSSSSSSS</span>
+          <span>Client Satisfaction</span>
         </div>
       </div>
     </div>
