@@ -42,7 +42,7 @@
     <!-- Navbar -->
     <div class="navbar navbar-expand-lg navbar-dark sticky" data-offset="500">
       <div class="container">
-        <a href="" class="navbar-brand">VPortfolio</a>
+        <a href="" class="navbar-brand">Portfolio</a>
         <button class="navbar-toggler" data-toggle="collapse" data-target="#main-navbar" aria-expanded="true">
           <span class="ti-menu"></span>
         </button>
@@ -58,10 +58,7 @@
               <a href="#portfolio" class="nav-link" data-animate="scrolling">Portfolio</a>
             </li>
             <li class="nav-item">
-              <a href="#blog" class="nav-link" data-animate="scrolling">Blog</a>
-            </li>
-            <li class="nav-item">
-              <a href="#contact" class="nav-link" data-animate="scrolling">Contact</a>
+              <a href="#contact" class="nav-link" data-animate="scrolling">Blog</a>
             </li>
           </ul>
           <ul class="nav ml-auto">
@@ -86,7 +83,7 @@
       <div class="row">
         <div class="col-lg-4 py-3">
           <div class="img-place wow fadeInUp">
-            <img src="../assets/img/work/gambarpfp.jpg" alt="">
+            <img src="../assets/img/work/gambarpfp.webp" alt="">
           </div>
         </div>
         <div class="col-lg-6 offset-lg-1 wow fadeInRight">
@@ -378,8 +375,6 @@
   <script src="../assets/js/bootstrap.bundle.min.js"></script>
     
   <script src="../assets/vendor/owl-carousel/owl.carousel.min.js"></script>
-    
-  <script src="../assets/vendor/perfect-scrollbar/js/perfect-scrollbar.js"></script>
     
   <script src="../assets/vendor/isotope/isotope.pkgd.min.js"></script>
     
